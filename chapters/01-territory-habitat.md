@@ -6,8 +6,8 @@
 
 ## 已上线条目
 
-- [T01｜把自己的巢穴收拾到能安心回来](http://../entries/001-make-your-den-liveable.md) — 用五分钟清掉眼前的未完成感，让房间替你干活。
-- [H03｜你的房间不是住房政策](http://../entries/011-your-room-is-not-a-housing-policy.md) — 分清收纳顺手、居住安全与租约压力这三笔不同的账。
+- [T01｜把自己的巢穴收拾到能安心回来](../entries/001-make-your-den-liveable.md) — 用五分钟清掉眼前的未完成感，让房间替你干活。
+- [H03｜你的房间不是住房政策](../entries/011-your-room-is-not-a-housing-policy.md) — 分清收纳顺手、居住安全与租约压力这三笔不同的账。
 
 ## 后续选题（规划中）
 
