@@ -3,7 +3,7 @@
 > **A field guide to being a living animal in a human world.**  
 > 写给现代青年的自然主义生活指南：重新学习如何使用身体、维护栖息地、建立关系、休息、玩耍、探索，并保有自己的选择。
 
-**项目状态：** Research Foundation v0.1.2 · 私有仓库审核草案 · 非医疗/心理治疗指南  
+**项目状态：** Research Foundation v0.1.3 · 私有仓库审核草案 · 非医疗/心理治疗指南  
 **内容语言：** 简体中文为主，关键概念附英文  
 **目标读者：** 暂定 18–35 岁的青年与初入成年生活者；年龄不是准入门槛。
 
@@ -103,6 +103,7 @@ BEAST-LIVING/
 - 完成三轮研究扩展，覆盖住房/光照/内感受/社会基础设施、进化失配/压力恢复/社会缓冲/数字注意力。
 - 新增压力与社会支持方向样稿，并增加 2026 年工业环境交叉实验的研究样稿。
 - 完成首轮 22 项核心来源证据审计，新增反向证据与限制清单。
+- 新增中外知识创作者研究、学术行为模型和项目专属内容转译模型。
 - 建立来源核验登记表，明确全文关键段落、摘要核对和官方指南之间的差异。
 
 **注意：** 64 个候选选题并不代表已经完成研究；每条的证据状态在内容中标注。当前是研究与结构原型，不是已经完成的“人生指南”。
@@ -116,6 +117,9 @@ BEAST-LIVING/
 - [第三轮研究扩展](docs/RESEARCH_EXPANSION_03.md)
 - [首轮核心证据审计](docs/RESEARCH_AUDIT_01.md)
 - [反向证据与限制](references/COUNTEREVIDENCE_AND_LIMITS.md)
+- [创作者与理论模型研究](docs/CREATOR_AND_MODEL_RESEARCH_01.md)
+- [内容转译模型](docs/CONTENT_TRANSLATION_MODEL_01.md)
+- [创作者研究来源登记](references/CREATOR_RESEARCH_SOURCES.md)
 - [来源核验登记表](references/RESEARCH_AUDIT_01_REGISTER.md)
 - [项目概念模型](docs/CONCEPTUAL_MODEL.md)
 - [第三批权威资料](references/TERTIARY_SOURCES.md)
