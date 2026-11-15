@@ -79,3 +79,19 @@
 - 让 LOF v0.1 与五层生态 × 六机制模型共同维护；
 - 以香港住房、新加坡家庭结构、中国时间利用为三个案例，测试变量定义和数据口径；
 - 不构造未经验证的统一“青年生活质量指数”。
+
+
+## 6. 社会基础设施与支持网络扩展（2026-11-15）
+
+新增：
+- [Research Model Synthesis 04](RESEARCH_MODEL_SYNTHESIS_04.md)
+- [Social Infrastructure Model 01](SOCIAL_INFRASTRUCTURE_MODEL_01.md)
+- [Research Dossier 06](../references/RESEARCH_DOSSIER_06.md)
+- [Claim Register 06](../references/CLAIM_REGISTER_06.md)
+- [Evidence Cards Addendum 01](EVIDENCE_CARDS_ADDENDUM_01.md)
+
+本轮把社会基础设施拆为 Presence → Access → Practice → Conversion 四阶段，并将支持网络按家庭、朋友、伴侣、邻里、组织/机构和线上关系分层。
+
+新证据包括香港 SDU 住户支持剖面、香港 25–35 岁成年子女与父母同住的住房代际交换、新加坡公共住房社区组织网络，以及香港公共房屋邻里凝聚自然实验。
+
+重要边界：香港 SDU 支持剖面样本平均年龄 48.6 岁，不是青年专属；代际住房研究报告的是父母对未来支持的意向；新加坡网络研究来自快速老龄化社区；香港公共住房自然实验当前仅摘要级核对；劏房社会基础设施研究当前以 2025 SSRN 预印本为准。
