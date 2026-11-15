@@ -21,3 +21,5 @@
 - SUPPORTED-WITH-BOUNDARY：存在支持，但需严格保留设计和外推边界。
 - NOT-SUPPORTED：现有来源不足以支持强主张。
 - REJECTED-AS-STATED：原表述过宽或概念混淆。
+
+| PLAY-03 | Burghardt et al. (2024) animal play review 的书目是否完整且可引用 | VERIFIED-SOURCE-WITH-BOUNDARY | 完整书目、DOI 10.1016/j.neubiorev.2024.105617、PMID 38458553 已核实；可支持动物玩耍多样性和研究议题仍未解决 | 不可推导成人无产出爱好必然提高认知或改善心理健康 |
