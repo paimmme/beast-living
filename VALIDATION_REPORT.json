@@ -1,18 +1,25 @@
 {
-  "file_count": 36,
-  "markdown_count": 33,
+  "file_count": 45,
+  "markdown_count": 42,
+  "json_count": 1,
+  "bibtex_count": 1,
+  "other_count": 1,
   "missing_local_links": [],
   "github": {
     "repository": "paimmme/beast-living",
     "visibility": "private",
     "branch": "work/research-foundation-v0",
+    "branch_head": "f44b1544c9ae23a04889ef015a4a93fb34750f63",
     "pull_request": 1,
     "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
+    "pull_request_state": "open",
     "draft": true,
-    "merged": false
+    "merged": false,
+    "changed_files": 44
   },
   "notes": [
-    "WHO social-connection report URL corrected to ISBN 9789240112360.",
-    "Repository tree verified: 36 files plus 5 directory entries."
+    "Repository tree verified from GitHub API.",
+    "All new research documents and sample entries are on the review branch, not main.",
+    "Research summaries are discovery aids; full-text verification remains pending for most papers."
   ]
 }
