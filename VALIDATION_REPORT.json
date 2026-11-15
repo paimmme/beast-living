@@ -1,6 +1,6 @@
 {
-  "file_count": 45,
-  "markdown_count": 42,
+  "file_count": 49,
+  "markdown_count": 46,
   "json_count": 1,
   "bibtex_count": 1,
   "other_count": 1,
@@ -9,17 +9,15 @@
     "repository": "paimmme/beast-living",
     "visibility": "private",
     "branch": "work/research-foundation-v0",
-    "branch_head": "f44b1544c9ae23a04889ef015a4a93fb34750f63",
     "pull_request": 1,
     "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
     "pull_request_state": "open",
     "draft": true,
-    "merged": false,
-    "changed_files": 44
+    "merged": false
   },
   "notes": [
-    "Repository tree verified from GitHub API.",
-    "All new research documents and sample entries are on the review branch, not main.",
-    "Research summaries are discovery aids; full-text verification remains pending for most papers."
+    "Research Audit 01 covers 22 core sources; audit depth varies by source and is explicitly recorded.",
+    "Four new files were added: audit report, counterevidence file, source register, and one research sample entry.",
+    "Full-text review remains incomplete for sources marked B or C; they must not be described as fully audited."
   ]
 }

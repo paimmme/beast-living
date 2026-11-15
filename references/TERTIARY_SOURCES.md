@@ -183,3 +183,29 @@ Calvert, E. et al. (2025). “Social Media Detox and Youth Mental Health.” *JA
 ## 检索与核查说明
 
 本批检索日期：2026-11-14（部分服务时间戳为 UTC 2026-11-15）。Wiley Scholar Gateway、PubMed、PMC、Nature、Oxford Academic 和期刊官网用于文献发现与摘要核对。正式发布前仍需检查全文、勘误、撤稿状态和目标主张所在位置。
+
+
+## F. 新增：工业环境、耐力与环境失配的实验研究
+
+### T20 — 工业环境与森林环境对短期耐力表现的影响
+
+Longman, D. P., Todorova, Y., Bailey, S. J., Bishop, N. C., Davidson, M., Drewer, J., Dwyer, C., James, L. J., Li, Y., Lintuluoto, A., Millett, J., Neville, V., Azian, F. S., Putland, M., Roberts, T., Szazvai, M., & Shaw, C. N. (2026). “Outpaced by Industry: Industrial Environments Reduce Endurance, With Implications for Evolutionary Fitness.” *American Journal of Biological Anthropology*. DOI: https://doi.org/10.1002/ajpa.70270
+
+**设计：** 随机、平衡顺序交叉实验。36 名健康成人完成流程，最终 25 人进入耐力表现分析（19 名女性、6 名男性）。每位参与者分别经历 90 分钟森林环境和工业化城市环境暴露，之后进行标准化自行车耐力测试。
+
+**结果：** 森林环境后 time-to-exhaustion 平均 14.6±1.0 分钟，工业环境后 13.5±0.9 分钟（p=0.007，Cohen's d=0.2）。工业环境暴露后的情绪指标更差，参与者在较低主观用力程度下停止运动。心率、血压、心肺指标没有明确的环境差异；皮质醇差异仅呈弱证据。
+
+**适用：** 这是项目研究“环境可能影响当下身体表现和主观体验”的重要实验案例。
+
+**边界：** 小样本、单一英国地点、性别分布不均、11 人未达到 RPE 纳入阈值、环境因素混杂、急性暴露、力竭测试可重复性有限。不能据此推断城市生活导致长期体能衰退，也不能把森林当作唯一祖先环境。
+
+### T21 — 成人社交媒体使用与心理健康的范围综述
+
+Koh, G. K., Ow Yong, J. Q. Y., Lee, A. R. Y. B., Ong, B. S. Y., Yau, C. E., Ho, C. S. H., & Goh, Y. S. (2024). “Social media use and its impact on adults' mental health and well-being: A scoping review.” *Worldviews on Evidence-Based Nursing*, 21(4), 345–394. DOI: https://doi.org/10.1111/wvn.12727
+
+**设计：** 范围综述，纳入 114 项研究；研究对象中年轻成人占比较高。
+
+**结果摘要：** 综述同时发现负面与正面影响。过度、被动使用常与较差心理健康结果相关；有目的的使用也可能带来感知社会支持和愉悦。
+
+**边界：** 纳入研究的搜索时间截至 2021 年 12 月；范围综述不是因果效应 Meta-analysis；研究类型和测量方法异质。
+

@@ -21,6 +21,9 @@
 - McEwen (1998), Allostasis and Allostatic Load: https://doi.org/10.1111/j.1749-6632.1998.tb09546.x
 - McCrory et al. (2023), Allostatic Load IPD Meta-analysis: https://doi.org/10.1016/j.psyneuen.2023.106117
 
+- McEwen (1998): Allostasis 是适应机制；长期负担涉及反复激活、关闭失败和调节不足，不等于单一皮质醇升高。
+- McCrory et al. (2023): Allostatic Load 的测量仍无统一黄金标准，样本主要为 40 岁以上人群。
+
 ## 本章边界
 
 睡眠时长因年龄、疾病、个体差异而异。动物睡眠差异很大，不能把动物睡眠时间直接当成人类标准。持续失眠或显著疲劳需要考虑专业评估。

@@ -26,6 +26,9 @@
 - Silk (2002), reconciliation in primates: https://doi.org/10.1146/annurev.anthro.31.032902.101743
 - Clutton-Brock (2009), cooperation between non-kin: https://doi.org/10.1038/nature08366
 
+- Hostinar et al. (2014) 强调社会缓冲受支持类型、早期经验、性别和关系质量影响；不是任何社交都能减压。
+- Clutton-Brock (2009) 与 Cheney (2011) 提醒，动物合作不应简单解释为直接互惠。
+
 ## 本章边界
 
 关系的质量、互惠和安全比关系数量重要。独处不是病，群体不是天然善良；不鼓励为了“合群”留在伤害性关系中。

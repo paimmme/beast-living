@@ -68,7 +68,9 @@ BEAST-LIVING/
 ├── docs/
 │   ├── CONCEPTUAL_MODEL.md
 │   ├── RESEARCH_EXPANSION_03.md
+│   ├── COUNTEREVIDENCE_AND_LIMITS.md
 │   ├── PROJECT_BRIEF.md
+│   ├── RESEARCH_AUDIT_01.md
 │   ├── CONTENT_ARCHITECTURE.md
 │   ├── RESEARCH_PROTOCOL.md
 │   ├── CLAIM_AND_EVIDENCE_STANDARD.md
@@ -99,7 +101,9 @@ BEAST-LIVING/
 - 梳理科普非虚构、视觉叙事、数据新闻和开源知识产品的传播参考。
 - 建立 64 个候选选题，以及 7 篇首轮样稿。
 - 完成三轮研究扩展，覆盖住房/光照/内感受/社会基础设施、进化失配/压力恢复/社会缓冲/数字注意力。
-- 新增 2 篇压力与社会支持方向的研究样稿。
+- 新增压力与社会支持方向样稿，并增加 2026 年工业环境交叉实验的研究样稿。
+- 完成首轮 22 项核心来源证据审计，新增反向证据与限制清单。
+- 建立来源核验登记表，明确全文关键段落、摘要核对和官方指南之间的差异。
 
 **注意：** 64 个候选选题并不代表已经完成研究；每条的证据状态在内容中标注。当前是研究与结构原型，不是已经完成的“人生指南”。
 
@@ -110,6 +114,9 @@ BEAST-LIVING/
 - [传播学与作品参考](docs/COMMUNICATION_REFERENCES.md)
 - [研究与编辑规范](docs/RESEARCH_PROTOCOL.md)
 - [第三轮研究扩展](docs/RESEARCH_EXPANSION_03.md)
+- [首轮核心证据审计](docs/RESEARCH_AUDIT_01.md)
+- [反向证据与限制](references/COUNTEREVIDENCE_AND_LIMITS.md)
+- [来源核验登记表](references/RESEARCH_AUDIT_01_REGISTER.md)
 - [项目概念模型](docs/CONCEPTUAL_MODEL.md)
 - [第三批权威资料](references/TERTIARY_SOURCES.md)
 - [研究空白矩阵 03](references/RESEARCH_GAPS_03.md)
@@ -131,4 +138,4 @@ BEAST-LIVING/
 - 交付分支：`work/research-foundation-v0`
 - 审核方式：Draft Pull Request；在用户审核前不自动合并。
 
-当前内容是研究基础草案。仓库保持私有；公开发布、许可选择、图像授权和外部转载规则均需另行审核。
+当前内容是研究基础草案。首轮审计已核对 22 项核心来源，但部分来源仍只核对摘要或关键段落；详见审计登记表。仓库保持私有；公开发布、许可选择、图像授权和外部转载规则均需另行审核。

@@ -12,11 +12,13 @@
 - E06 每周给好奇心留一个小窗口
 - E07 尝试低成本的微冒险
 - E08 记录一个今天才注意到的细节
+- E09 环境也会改变你活动时的感受（研究型样稿）
 
 ## 研究入口
 
 - Burghardt et al. (2024), animal play review: https://doi.org/10.1016/j.neubiorev.2024.105617
 - Bell et al. (2025), nature exposure and attention restoration: https://doi.org/10.1016/j.jenvp.2025.102632
+- Longman et al. (2026), industrial vs forest exposure and endurance: https://doi.org/10.1002/ajpa.70270
 - Walker, *The Art of Noticing*: https://www.penguinrandomhouse.com/books/570033/the-art-of-noticing-by-rob-walker/
 
 ## 本章边界

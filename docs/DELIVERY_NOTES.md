@@ -44,3 +44,21 @@
 - 逐条打开原始论文，补齐全文核查范围。
 - 独立 Agent 只核对原始来源和事实，不参与自我辩护。
 - 所有对外发布内容由用户最终审核。
+
+
+## Research Audit 01（2026-11-15）
+
+- 首轮审计 22 项核心来源，另将部分摘要级文献保留为后续全文核查对象。
+- 新增 `docs/RESEARCH_AUDIT_01.md`、`references/RESEARCH_AUDIT_01_REGISTER.md`、`references/COUNTEREVIDENCE_AND_LIMITS.md`。
+- 新增 `entries/010-industrial-environments-and-endurance.md`，依据 Longman et al. (2026) 随机交叉实验撰写，明确小样本、急性暴露、地点混杂和外推限制。
+- 修订 T01 领地条目：Ord (2021) 的 Meta-analysis 中，时间成本比生理压力成本更突出；领地资源类型影响成本。
+- 修订 P09 社会缓冲条目：强调关系质量、支持类型、性别和情境；避免“多社交就减压”的结论。
+- 修订 R09 Allostatic Load 条目：按 McEwen (1998) 摘要区分三种经典负担模式，并强调 McCrory (2023) 不是青年个人压力检测工具。
+- 更新概念模型，区分 simple/evolutionary/developmental/physiological mismatch 等机制，不再把失配简化成三个标签。
+
+## 当前仓库状态
+
+- 仓库：`paimmme/beast-living`，Private。
+- 工作分支：`work/research-foundation-v0`。
+- Draft PR #1 继续保持未合并，新增审计材料仍等待所有者审核。
+- 本轮后仓库文件总数预计 49 个，其中 Markdown 46 个；提交后以 GitHub 树核验为准。
