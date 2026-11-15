@@ -1,0 +1,27 @@
+{
+  "file_count": 60,
+  "markdown_count": 57,
+  "json_count": 1,
+  "bibtex_count": 1,
+  "other_count": 1,
+  "missing_local_links": [],
+  "validation_scope": "GitHub repository tree verified; README relative links checked against the tree. This is not a repository-wide Markdown link crawler.",
+  "github": {
+    "repository": "paimmme/beast-living",
+    "visibility": "private",
+    "branch": "work/research-foundation-v0",
+    "pull_request": 1,
+    "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
+    "pull_request_state": "open",
+    "draft": true,
+    "merged": false,
+    "changed_files": 59
+  },
+  "notes": [
+    "Research Audit 02 adds five cross-disciplinary topics and five draft entries.",
+    "Sources distinguish peer-reviewed studies, official reports, systematic reviews, and early/abstract-level evidence.",
+    "Cross-national statistics are not treated as China/Singapore population estimates.",
+    "No new draft entry is marked PUBLISHED.",
+    "Research Audit 02 registers 17 core sources; most are abstract/official-page level and require further full-text review."
+  ]
+}
