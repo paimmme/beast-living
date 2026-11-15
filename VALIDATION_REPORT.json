@@ -1,27 +1,25 @@
 {
-  "file_count": 49,
-  "markdown_count": 46,
+  "file_count": 52,
+  "markdown_count": 49,
   "json_count": 1,
   "bibtex_count": 1,
   "other_count": 1,
   "missing_local_links": [],
-  "validation_scope": "README relative links checked against GitHub tree; newly added paths verified. This is not a repository-wide Markdown link crawler.",
+  "validation_scope": "Repository tree and README relative links are checked after this commit; creator rankings are discovery sources, not scientific quality certifications.",
   "github": {
     "repository": "paimmme/beast-living",
     "visibility": "private",
     "branch": "work/research-foundation-v0",
-    "branch_head": "90613df4f8d14d4624e438234ce136a767491cf5",
     "pull_request": 1,
     "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
     "pull_request_state": "open",
     "draft": true,
-    "merged": false,
-    "changed_files": 48
+    "merged": false
   },
   "notes": [
-    "Repository tree verified from GitHub API after Research Audit 01.",
-    "Four new files were added in this audit pass.",
-    "Research audit covers 22 core sources; audit depth varies and is recorded in references/RESEARCH_AUDIT_01_REGISTER.md.",
-    "Full-text review remains incomplete for sources marked B or C."
+    "Creator & Model Research 01 adds a creator landscape, theory-model synthesis, and project-specific content translation workflow.",
+    "New sources distinguish creator self-description, media interviews, peer-reviewed content analyses, academic theory, official guidance, and platform rankings.",
+    "Popularity and follower counts are not treated as scientific validity.",
+    "The new content model is an editorial workflow, not a validated scientific theory."
   ]
 }
