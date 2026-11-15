@@ -12,11 +12,14 @@
 - R06 识别疲劳，不要等到彻底耗尽
 - R07 给一天留出没有安排的空白
 - R08 持续失眠或疲惫时，别只靠意志硬扛
+- R09 压力反应不是敌人，长期没有恢复空间才值得警惕（首轮样稿）
 
 ## 研究入口
 
 - AASM/SRS (2015), adult sleep duration consensus: https://doi.org/10.5664/jcsm.4758
 - CDC (2024), About Sleep: https://www.cdc.gov/sleep/about/index.html
+- McEwen (1998), Allostasis and Allostatic Load: https://doi.org/10.1111/j.1749-6632.1998.tb09546.x
+- McCrory et al. (2023), Allostatic Load IPD Meta-analysis: https://doi.org/10.1016/j.psyneuen.2023.106117
 
 ## 本章边界
 

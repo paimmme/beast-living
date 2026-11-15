@@ -12,12 +12,18 @@
 - F06 低固定成本能换来一些自由
 - F07 练习做自己的决定
 - F08 允许自己改变方向
+- F09 别把所有空隙都交给推荐算法
+- F10 别拿一个想象中的祖先生活标准衡量自己
 
 ## 研究入口
 
 - Ryan & Deci (2000), self-determination theory: https://doi.org/10.1037/0003-066X.55.1.68
 - Odell, *How to Do Nothing*: https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612198552/
 - Burkeman, *Four Thousand Weeks*: https://www.oliverburkeman.com/books/4000-weeks
+- Griffiths & Bourrat (2023), evolutionary/developmental/physiological mismatch: https://doi.org/10.1093/emph/eoad023
+- Longman & Shaw (2025/2026), environmental mismatch hypothesis: https://doi.org/10.1111/brv.70094
+- Green et al. (2025), social media, AI and digital well-being: https://doi.org/10.1111/spc3.70107
+- Calvert et al. (2025), short-term social media reduction cohort: https://doi.org/10.1001/jamanetworkopen.2025.45245
 
 ## 本章边界
 

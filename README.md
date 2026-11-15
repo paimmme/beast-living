@@ -66,6 +66,8 @@ BEAST-LIVING/
 ├── CONTRIBUTING.md
 ├── CHANGELOG.md
 ├── docs/
+│   ├── CONCEPTUAL_MODEL.md
+│   ├── RESEARCH_EXPANSION_03.md
 │   ├── PROJECT_BRIEF.md
 │   ├── CONTENT_ARCHITECTURE.md
 │   ├── RESEARCH_PROTOCOL.md
@@ -77,6 +79,8 @@ BEAST-LIVING/
 │   └── DELIVERY_NOTES.md
 ├── chapters/                 # 八个主题的章节地图
 ├── entries/                  # 独立生活建议样稿
+│   ├── 008-a-safe-person-can-buffer-stress.md
+│   └── 009-stress-is-adaptation.md
 ├── content/
 │   ├── IDEA_BACKLOG.md        # 候选选题池，不是待办清单
 │   └── ENTRY_TEMPLATE.md
@@ -94,6 +98,8 @@ BEAST-LIVING/
 - 收集第一批动物行为学、公共卫生、心理学和环境心理学资料。
 - 梳理科普非虚构、视觉叙事、数据新闻和开源知识产品的传播参考。
 - 建立 64 个候选选题，以及 7 篇首轮样稿。
+- 完成三轮研究扩展，覆盖住房/光照/内感受/社会基础设施、进化失配/压力恢复/社会缓冲/数字注意力。
+- 新增 2 篇压力与社会支持方向的研究样稿。
 
 **注意：** 64 个候选选题并不代表已经完成研究；每条的证据状态在内容中标注。当前是研究与结构原型，不是已经完成的“人生指南”。
 
@@ -103,6 +109,10 @@ BEAST-LIVING/
 - [主张登记表](references/CLAIM_REGISTER.md)
 - [传播学与作品参考](docs/COMMUNICATION_REFERENCES.md)
 - [研究与编辑规范](docs/RESEARCH_PROTOCOL.md)
+- [第三轮研究扩展](docs/RESEARCH_EXPANSION_03.md)
+- [项目概念模型](docs/CONCEPTUAL_MODEL.md)
+- [第三批权威资料](references/TERTIARY_SOURCES.md)
+- [研究空白矩阵 03](references/RESEARCH_GAPS_03.md)
 
 ## 如何使用
 

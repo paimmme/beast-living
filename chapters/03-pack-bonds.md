@@ -12,12 +12,19 @@
 - P06 冲突之后，练习修复而不是消失
 - P07 建立一个小型互助网络
 - P08 独处与孤独不是一回事
+- P09 压力很大时，找一个安全可信的人一起面对（首轮样稿）
+- P10 冲突之后可以修复，但不是所有关系都值得和解
 
 ## 研究入口
 
 - Silk (2025), “The natural history of social bonds”: https://doi.org/10.1111/nyas.15318
 - Holt-Lunstad et al. (2010), social relationships meta-analysis: https://doi.org/10.1371/journal.pmed.1000316
 - WHO (2025), social connection report: https://www.who.int/publications/i/item/9789240112360
+- Hostinar et al. (2014), social buffering across animal and human studies: https://doi.org/10.1037/a0032671
+- Hennessy et al. (2009), social buffering mechanisms and limits: https://doi.org/10.1016/j.yfrne.2009.06.001
+- Wittig et al. (2016), social support and glucocorticoids in wild chimpanzees: https://doi.org/10.1038/ncomms13361
+- Silk (2002), reconciliation in primates: https://doi.org/10.1146/annurev.anthro.31.032902.101743
+- Clutton-Brock (2009), cooperation between non-kin: https://doi.org/10.1038/nature08366
 
 ## 本章边界
 
