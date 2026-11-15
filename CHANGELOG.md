@@ -26,3 +26,12 @@
 - 新增 2026 年工业环境与森林环境随机交叉实验的研究样稿。
 - 修订领地维护、社会缓冲和压力恢复三篇样稿的证据措辞。
 - 将项目从单纯资料扩充推进到主张级证据管理；未完成全文审计的来源继续保持 DRAFT/REVIEW。
+
+
+## 0.1.3 — Creator & Model Research
+
+- 新增中外创作者与知识品牌研究，覆盖 Huberman Lab、HealthyGamerGG、Sapolsky、Kurzgesagt、Veritasium、Ali Abdaal、The School of Life、KnowYourself、无穷小亮、星球研究所和混知。
+- 区分创作者自述、研究者对内容的分析、学术理论和平台榜单，避免把传播力误当作科学可信度。
+- 新增 COM-B、生态模型、自我决定理论、习惯形成 Meta-analysis 和科学视频叙事研究。
+- 建立项目专属八步内容转译模型和跨媒体表达规范。
+- 明确“不是生产力博主、不是泛心理学账号、不是原始主义生活挑战”的编辑边界。
