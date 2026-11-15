@@ -24,8 +24,9 @@
 
 明天早上睁开眼，至少第一眼看到的是一块干净的地方。
 
-<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H3 / M2 审计卡） **动物观察（A1）**：Ord, T. J. (2021). Cross-taxon review, meta-analysis, and longitudinal field study on free-living lizards (*Oecologia*). 证明领地维护存在显著时间成本，且成本随面积与防御资源类型变化。仅作“空间维护需匹配精力预算”的启发性类比，不能直接证明人类整理房间必然改善心理健康。</summary>
+<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H3 / M2 审计卡）</summary>
 
+- **动物观察（A1）**：Ord, T. J. (2021). Cross-taxon review, meta-analysis, and longitudinal field study on free-living lizards (*Oecologia*). 证明领地维护存在显著时间成本，且成本随面积与防御资源类型变化。仅作“空间维护需匹配精力预算”的启发性类比，不能直接证明人类整理房间必然改善心理健康。
 - **人类证据（H3）**：Saxbe, D. E., & Repetti, R. L. (2010). 对 60 对美国中产双职工夫妻的家庭导览描述与日间皮质醇监测（*Personality and Social Psychology Bulletin*）。属小样本观察性关联研究，未在所有独居青年或不同居住文化中验证因果。
 - **补充线索**：Chan et al. (2026) 对香港细分住房（SDU，N=1,194）的研究提示，空间受限还会挤压在家接待亲友与日常社交的可能，使居民更依赖附近公共或商业场所。
 - **不要误解为**：凌乱常是工时过长、精力耗竭或抑郁状态的结果，不代表“懒惰”或“不自律”；整理桌面也解决不了隔音差、采光不足或租约不稳等住房问题（参见 [H03｜你的房间不是住房政策](011-your-room-is-not-a-housing-policy.md)）。
