@@ -2,9 +2,17 @@
   "file_count": 36,
   "markdown_count": 33,
   "missing_local_links": [],
-  "publish_script_syntax": "REMOVED (repository already exists; files pushed through GitHub connector)",
+  "github": {
+    "repository": "paimmme/beast-living",
+    "visibility": "private",
+    "branch": "work/research-foundation-v0",
+    "pull_request": 1,
+    "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
+    "draft": true,
+    "merged": false
+  },
   "notes": [
     "WHO social-connection report URL corrected to ISBN 9789240112360.",
-    "GitHub repository confirmed private; delivery branch and draft PR are being prepared."
+    "Repository tree verified: 36 files plus 5 directory entries."
   ]
 }
