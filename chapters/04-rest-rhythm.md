@@ -6,9 +6,9 @@
 
 ## 已上线条目
 
-- [R03｜休息不是干完活才配拿的奖品](http://../entries/004-rest-is-not-a-reward.md) — 先保住每天 7 小时左右的基本睡眠盘。
-- [R09｜身体会应付压力，但也需要关机的机会](http://../entries/009-stress-is-adaptation.md) — 用一张纸把能砍掉、能协商和暂改不动的压力分开。
-- [R10｜休息不需要为自己辩护](http://../entries/014-rest-does-not-need-to-justify-itself.md) — 每天留一段不产出成果、也不必向任何人解释的空白时间。
+- [R03｜休息不是干完活才配拿的奖品](../entries/004-rest-is-not-a-reward.md) — 先保住每天 7 小时左右的基本睡眠盘。
+- [R09｜身体会应付压力，但也需要关机的机会](../entries/009-stress-is-adaptation.md) — 用一张纸把能砍掉、能协商和暂改不动的压力分开。
+- [R10｜休息不需要为自己辩护](../entries/014-rest-does-not-need-to-justify-itself.md) — 每天留一段不产出成果、也不必向任何人解释的空白时间。
 
 ## 后续选题（规划中）
 
