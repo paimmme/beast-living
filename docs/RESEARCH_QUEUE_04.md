@@ -161,3 +161,11 @@
 
 ### 本轮研究端来源核验结果
 详细矩阵见 `docs/RESEARCH_REVIEW_HANDOFF_02.md`。Review 不是研究 Agent 修改正文的授权；entries、README、MANIFESTO、chapters 和传播规范仍由主笔 Agent 主导。
+
+
+## Review v1.0 执行 issue（2026-11-15）
+
+主笔执行任务已建立 GitHub Issue #2：  
+https://github.com/paimmme/beast-living/issues/2
+
+Research Agent 已完成来源侧交接；P0/P1/P2 读者版重写由 Chief Prose Architect 执行。Research Agent 不修改 entries、README、MANIFESTO、chapters、COMMUNICATION_PLAYBOOK 或 ENTRY_TEMPLATE。
