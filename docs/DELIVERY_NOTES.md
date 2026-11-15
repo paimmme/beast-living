@@ -27,9 +27,10 @@
 ## GitHub 状态
 
 - 仓库：`paimmme/beast-living`，已由用户创建并经连接核验为 Private。
-- 本轮将 `main` 保持为最小基线。
-- 完整研究基础提交到 `work/research-foundation-v0`，并通过 Draft Pull Request 供用户审核。
-- 不自动合并；公开发布前仍需审核来源、许可、图片授权和医学/心理健康边界。
+- 初始 `main` 保持为最小基线。
+- 完整研究基础已提交到 `work/research-foundation-v0`。
+- 已创建 [Draft Pull Request #1](https://github.com/paimmme/beast-living/pull/1)，等待项目所有者审核；未自动合并。
+- PR 当前包含 35 个变更文件；仓库分支共 36 个文件（含初始 README 基线）。
 
 ## 后续复核
 
