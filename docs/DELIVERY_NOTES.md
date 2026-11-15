@@ -95,7 +95,7 @@
 ## Research Audit 02（2026-11-14）
 
 - 新增 `docs/RESEARCH_AUDIT_02.md`：跨学科梳理青年住房、日常身体活动、社会联结、休闲与工作恢复、结构性困难五个主题。
-- 新增 `references/RESEARCH_AUDIT_02_REGISTER.md`：15 项核心来源登记，明确核对深度和主张边界。
+- 新增 `references/RESEARCH_AUDIT_02_REGISTER.md`：17 项核心来源登记，明确核对深度和主张边界。
 - 新增 `references/COUNTEREVIDENCE_02.md`：反向证据、替代解释和编辑红线。
 - 新增 5 篇 DRAFT 条目：`011` 住所、`012` 日常活动、`013` 社会支持、`014` 休闲、`015` 结构性困难。
 - 住房主题纳入 Eurofound、WHO/Youth Wiki、租房者住房不安全系统综述、美国 Add Health 纵向研究，以及中国 CFPS 青少年住房负担研究和广州青年住房/代际支持案例。
@@ -104,3 +104,14 @@
 - 休息主题纳入 Leisure Guilt 四项研究、未完成工作任务—下班后反刍 Meta-analysis，以及 ILO 中国工时错配报告。
 - 结构性归因主题并列记录两项 2026 年中国青年功绩主义/抑郁纵向研究的不同结果，禁止单向因果叙事。
 - 本轮大部分新来源仍处于摘要/关键页面核对阶段，需进一步获取全文和补充材料。
+
+
+## Research Audit 02 最终 GitHub 核验
+
+- 仓库：`paimmme/beast-living`（Private）。
+- 工作分支：`work/research-foundation-v0`。
+- 最新分支提交：以 GitHub 当前分支头为准；本轮交付完成后已重新核验。
+- 仓库共 60 个文件：57 个 Markdown、1 个 JSON、1 个 BibTeX、1 个其他文件。
+- Draft PR #1 共 59 个变更文件，仍为 open/draft，未合并。
+- README 内部相对链接已对照 GitHub 文件树检查，缺失链接为 0。
+- Research Audit 02 登记 17 项核心来源；多数为摘要/官方页面级核对，全文复核仍待继续。
