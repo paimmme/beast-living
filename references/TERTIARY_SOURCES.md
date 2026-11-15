@@ -271,3 +271,211 @@ Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). “Time to Form a Habit
 **结果：** 故事地位和情绪唤起在回归模型中是显著预测因素；戏剧性问题、转折和洞见也与播放量存在关联。
 
 **边界：** 单一平台、极端样本、观察性相关；播放量不是学习效果、事实准确性或公共价值的替代指标。
+
+
+## H. 新增：青年住房、城市环境与生活条件（Research Audit 02）
+
+### T27 — 欧洲青年住房困境
+
+Eurofound. (2025). *Foundational challenges: The housing struggles of Europe's youth*. Published 17 December 2025.
+
+- https://www.eurofound.europa.eu/default/publications/all/foundational-challenges-the-housing-struggles-of-europes-youth
+
+**关键贡献：** 聚焦 18–39 岁欧洲青年住房负担、住房质量、就业不稳定、独立生活、教育/就业机会和家庭形成。
+
+**边界：** 欧洲数据不能直接外推为中国或亚洲青年总体情况。
+
+### T28 — 青年可负担与高质量住房政策比较
+
+European Commission / Youth Wiki. *Youth access to affordable and quality housing: A comparative analysis of national policies.*
+
+- https://education-for-climate.ec.europa.eu/topic/youth-access-affordable-and-quality-housing-comparative-analysis-national-policies
+
+**关键数据：** 报告摘要显示，2024 年欧盟 15–29 岁青年中 27% 居住在过度拥挤住房；处于贫困风险中的同龄人比例为 42%。20–29 岁青年中，超过 10% 生活在住房成本超过家庭可支配收入 40% 的家庭中。
+
+**边界：** 需要回到原始 Eurostat 指标核对国家差异和统计口径；不可直接外推亚洲。
+
+### T29 — 租房者住房不安全与心理健康系统综述
+
+Talmatzky, M., Nohr, L., Knaevelsrud, C., & Niemeyer, H. (2026). “Exploring the association between housing insecurity and mental health among renters: A systematic review of quantitative primary and secondary studies.” *PLOS ONE*, 21(1), e0294222. DOI: https://doi.org/10.1371/journal.pone.0294222
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/41544000/
+- Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC12810827/
+
+**设计：** 22 项研究，至少 336,775 名参与者；14 项纵向、5 项横断面、3 项准实验研究。
+
+**结果：** 9 项住房可负担性研究中有 6 项发现低收入租客的租金不可负担与较差心理健康显著相关；14 项住房不稳定研究中有 12 项报告住房不稳定与租客心理健康问题相关。
+
+**边界：** GRADE 整体证据确定性低至极低，主要受研究设计和异质性限制。
+
+### T30 — 青年成年期住房不安全的长期关联
+
+Roberts, M. K., Bhat, A. C., & Fenelon, A. (2025). “The long-term effects of housing insecurity in young adulthood on subsequent material hardship, physiological and mental health.” *Social Science & Medicine*, 367, 117761. DOI: https://doi.org/10.1016/j.socscimed.2025.117761
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/39874838/
+- Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11854551/
+
+**设计：** 使用美国 Add Health 纵向数据，识别 18–26 岁住房不安全参与者并构建倾向评分匹配对照组，追踪后续物质困难、异稳态负荷和抑郁症状。
+
+**边界：** 美国队列与匹配设计；不能直接外推到其他国家，也不能把关联写成随机实验因果结论。
+
+### T31 — 中国城市住房不可负担与青少年学业表现
+
+Nie, P., Li, Q., Ding, L., & Sousa-Poza, A. (2025). “Housing unaffordability and adolescent academic achievement in urban China.” *Applied Economics*, 57(45), 7362–7379. DOI: https://doi.org/10.1080/00036846.2024.2391580
+
+**设计：** CFPS 2010–2018 数据，991 名城市青少年、2,277 条观测，采用固定效应工具变量方法。
+
+**结果：** 住房不可负担与中国语文学业表现下降相关，研究报告平均约 12% 的下降；数学成绩结果不显著。作者讨论的可能机制包括住房质量、课外辅导、食品和教育等家庭支出。
+
+**边界：** 研究对象为 10–18 岁青少年，结果是学业表现，不是成年人的心理健康；不能把 12% 解释为住房对所有生活结果的影响。
+
+### T32 — 广州青年住房、父母支持与生育意愿
+
+Mo, H., & Liu, Y. (2025). “Parental Dependency and Costly Offspring: Housing and Fertility of Young Adults in China's Large City.” *Population, Space and Place*, 31(1), e2883. DOI: https://doi.org/10.1002/psp.2883
+
+**设计：** 广州案例，通过问卷和深度访谈比较不同父母住房支持类型。
+
+**关键贡献：** 住房条件与青年生育意愿的关联会随父母支持类型而异，提示住房、代际财富流动和家庭形成决策相互交织。
+
+**边界：** 单一城市案例；研究的是住房与生育意愿，不是心理健康或所有青年独立生活状况。
+
+## I. 新增：身体活动、城市建成环境与职业活动
+
+### T33 — 亚洲城市建成环境与身体活动系统综述
+
+Topothai, T., Topothai, C., Edney, S. M., Zheng, S., Tay, Z., Tangcharoensathien, V., & Müller-Riemenschneider, F. (2025). “Associations Between the Built Environment and Physical Activity in Urban Asia: A Systematic Review.” *Journal of Physical Activity and Health*. DOI: https://doi.org/10.1123/jpah.2025-0359
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/41330359/
+
+**设计：** 98 篇研究、13 个亚洲国家；96.9% 为横断面研究。研究汇总了 261 项统计显著的环境关联，其中 208 项与更多身体活动相关、38 项与更少活动相关。
+
+**边界：** 关联数量不是独立因果实验数量；久坐行为在纳入研究中覆盖不足。
+
+### T34 — 建成环境与步行的纵向系统综述
+
+Bandara, T. N., Higgs, C., Turrell, G., De Livera, A., Gunn, L., & Zapata-Diomedi, B. (2025). “Longitudinal effects of the built environment on transportation and recreational walking and differences by age and sex: A systematic review.” *Social Science & Medicine*, 368, 117811. DOI: https://doi.org/10.1016/j.socscimed.2025.117811
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/39938435/
+
+**设计：** 纳入 23 项纵向研究。
+
+**结果：** 街道连通性、目的地可达性和公共交通可达性与更多交通性步行之间存在较一致的前瞻性证据。
+
+**边界：** 年龄和性别亚组证据有限；研究主要来自高收入国家。
+
+### T35 — 职业体力活动健康悖论
+
+Quinn, T. D., Prince, S. A., Pronk, N. P., & Barone Gibbs, B. (2026). “The physical activity health paradox: what is it, why might it happen, and where to go from here?” *International Journal of Behavioral Nutrition and Physical Activity*, 23, 67. DOI: https://doi.org/10.1186/s12966-026-01922-z
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42104355/
+
+**定位：** 非系统叙述性综述，讨论职业体力活动与休闲时间活动的不同健康关联。
+
+**关键贡献：** 休闲时间活动的保护性证据相对稳定；职业体力活动结果混合，可能受到持续时间、恢复机会、工作压力和活动类型影响。
+
+**边界：** 职业活动测量、研究设计和因果机制仍有明显限制；不能简单写成“体力劳动有害”。
+
+## J. 新增：社会联结、数字媒介与青年孤独
+
+### T36 — WHO 社会联结三维框架
+
+World Health Organization. (2025). *From loneliness to social connection: charting a path to healthier societies*. WHO Commission on Social Connection.
+
+- Report: https://www.who.int/publications/i/item/978240112360
+- Definitions: https://www.who.int/news-room/questions-and-answers/item/social-connection
+
+**关键贡献：** 将社会联结区分为结构、功能和质量；区分客观社会隔离与主观孤独；将公园、图书馆、公共交通和社区组织等社会基础设施纳入政策策略。
+
+### T37 — 青少年与青年成人社交媒体使用和孤独感 Meta-analysis
+
+“Exploring the relationship between social media use and loneliness in adolescents and young adults: a systematic review and meta-analysis.” (2026). *Social Psychiatry and Psychiatric Epidemiology*, 61(8), 1345–1359. DOI: https://doi.org/10.1007/s00127-026-03175-4
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42479167/
+- Open access: https://pmc.ncbi.nlm.nih.gov/articles/PMC13522048/
+
+**设计：** 59 项研究、67 个独立样本、81,344 名参与者，平均年龄 17.6 岁。
+
+**结果：** 问题性社交媒体使用与孤独感相关 r=0.29；使用时长 r=0.07；研究异质性很高。主动与被动使用的亚组差异未达到显著水平。
+
+**边界：** 相关性不是因果；不能把社交媒体使用一概视为有害。
+
+### T38 — 数字干预与社会联结 Meta-analysis
+
+Hansen, T., Johansen, R., Kirkøen, B., Stene-Larsen, K., Straiton, M., Tornes, R. A., & Reneflot, A. (2025). “Digital bridges to social connection: A systematic review and meta-analysis of digital interventions for loneliness and social isolation.” *Internet Interventions*, 41, 100856. DOI: https://doi.org/10.1016/j.invent.2025.100856
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/40698012/
+- Open access: https://pmc.ncbi.nlm.nih.gov/articles/PMC12281013/
+
+**设计：** 40 项 RCT、6,062 名参与者，其中约三分之一研究聚焦年轻人。
+
+**结果：** 部分心理干预（尤其群体/社会互动成分）、团体活动和机器人宠物干预显示降低孤独感的收益；单纯减少社交媒体使用的结果未达到统计显著。
+
+**边界：** 研究存在中高偏倚风险、异质性和长期随访不足。
+
+## K. 新增：休闲、工作恢复与工时错配
+
+### T39 — Leisure Guilt
+
+Koo, H. J., Piff, P. K., Götz, F. M., Stieger, S., & Shariff, A. F. (2026). “Leisure Guilt.” *Personality and Social Psychology Bulletin*. DOI: https://doi.org/10.1177/01461672261462977
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42500858/
+
+**设计：** 四项研究；开发休闲内疚倾向量表，并通过经验取样观察日常休闲。
+
+**结果：** 平均约 14% 的休闲时刻伴随休闲内疚；年轻人、女性和社会经济地位较低者报告更高。休闲内疚倾向与较差休闲体验和较低福祉相关。
+
+**边界：** 新构念；不能据此认定生产力文化是唯一原因。
+
+### T40 — 未完成工作任务与下班后工作思维 Meta-analysis
+
+Wendsche, J., Weigelt, O., & Syrek, C. J. (2026). “Unfinished work tasks and work-related thoughts during off-job time: meta-analysis of the Zeigarnik effect in a work-recovery context.” *Anxiety, Stress & Coping*, 39(4), 385–407. DOI: https://doi.org/10.1080/10615806.2026.2616302
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/41554526/
+
+**设计：** 17 项 between-person 研究、N=2,473；14 项 within-person 研究、N=12,129。
+
+**结果：** 未完成任务与下班后工作相关思维呈正相关，尤其是情绪性反刍。
+
+**边界：** 关联不是因果；不同工作目标、行动策略和主管期望可能影响结果。
+
+### T41 — 中国劳动力市场工时不足、过度与错配
+
+International Labour Organization. (2025). *Short hours of work, long hours of work, and work hours mismatch in China's labour market.*
+
+- 中文页面：https://www.ilo.org/zh-hans/publications/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B8%82%E5%9C%BA%E7%9A%84%E5%B7%A5%E6%97%B6%E4%B8%8D%E8%B6%B3%E3%80%81%E5%B7%A5%E6%97%B6%E8%BF%87%E5%BA%A6%E5%8F%8A%E5%B7%A5%E6%97%B6%E9%94%99%E9%85%8D
+- English page: https://www.ilo.org/publications/short-hours-work-long-hours-work-and-work-hours-mismatch-chinas-labour
+
+**关键贡献：** 同时讨论工时不足与工时过度，并分析实际工时和偏好工时之间的错配；指出两类问题的经济和制度成因并不相同。
+
+**边界：** 本轮核对官方报告摘要，详细统计和模型需继续查阅 PDF 全文。
+
+## L. 新增：中国青年功绩主义信念、信任与抑郁研究
+
+### T42 — 功绩主义信念变化与成年过渡期抑郁
+
+Fan, S., John, O. P., & De Fruyt, F. (2026). “Disillusionment With Meritocracy During the Transition to Adulthood: Longitudinal Change in Belief Systems and Depression in China.” *Psychological Science*, 37(10), 671–684. DOI: https://doi.org/10.1177/09567976261479675
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42777231/
+
+**设计：** 四波 CFPS 数据，524 名参与者从 2012 年 10–13 岁追踪到 2020 年 18–21 岁。
+
+**结果：** 大学生群体非功绩主义信念增加，与更陡的抑郁症状上升相关；作者明确指出不能推断因果。
+
+**边界：** 不能解释成“看见结构性障碍会导致抑郁”，也不能建议青年通过相信功绩主义来保护心理健康。
+
+### T43 — 中国青年系统正当化、信任与抑郁的纵向关系
+
+Li, H., & Chen, L. (2026). “The Maintenance and Collapse of Sense of Order: A Longitudinal Study of System Justification Mechanisms Among Chinese Youth.” *Brain and Behavior*, 16(7), e71604. DOI: https://doi.org/10.1002/brb3.71604
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42494180/
+- Open access: https://pmc.ncbi.nlm.nih.gov/articles/PMC13396888/
+
+**设计：** 2018、2020、2022 三波 CFPS，1,489 名 14–35 岁参与者；使用 RI-CLPM。
+
+**结果：** 稳定的个体间差异与个体内时间变化呈现不同关系；个体内功绩主义信念变化没有显著预测后续抑郁变化，抑郁变化反而预测后续功绩主义信念下降。
+
+**边界：** 不同层级的相关不能混为一谈；仍需全文核对模型、测量和敏感性分析。
+
+## 检索与核查说明
+
+本批检索日期：2026-11-14（部分索引记录为 UTC 2026-11-15）。来源包括 WHO、ILO、Eurofound、PubMed、PMC、期刊出版方页面和学术摘要。正式发布前需继续检查全文、补充材料、勘误、撤稿状态和目标主张所在位置。
