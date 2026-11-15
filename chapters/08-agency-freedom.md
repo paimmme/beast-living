@@ -6,8 +6,8 @@
 
 ## 已上线条目
 
-- [F01｜在逼仄的日程里，给自己留一块能拍板的自留地](http://../entries/007-choose-autonomy.md) — 哪怕大局难改，每天也护住一件由你自己决定的小事。
-- [A03｜结构性困难不是你的个人失败](http://../entries/015-structural-constraints-are-not-personal-failure.md) — 用三栏剥离法把结构硬约束、可协商项和今晚能做的一小步拆开。
+- [F01｜在逼仄的日程里，给自己留一块能拍板的自留地](../entries/007-choose-autonomy.md) — 哪怕大局难改，每天也护住一件由你自己决定的小事。
+- [A03｜结构性困难不是你的个人失败](../entries/015-structural-constraints-are-not-personal-failure.md) — 用三栏剥离法把结构硬约束、可协商项和今晚能做的一小步拆开。
 
 ## 后续选题（规划中）
 
