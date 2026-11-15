@@ -50,7 +50,9 @@
 
 完整宣言请见：[MANIFESTO.md](MANIFESTO.md)。
 
-- 🔬 研究与编辑后台（证据标准、文献台账、反向证据与主笔规范） **原则与写作规范**：
+<details><summary>🔬 研究与编辑后台（证据标准、文献台账、反向证据与主笔规范）</summary>
+
+**原则与写作规范**：
 - [docs/PRINCIPLES_AND_BOUNDARIES.md](docs/PRINCIPLES_AND_BOUNDARIES.md)
 - [docs/CLAIM_AND_EVIDENCE_STANDARD.md](docs/CLAIM_AND_EVIDENCE_STANDARD.md)
 - [docs/COMMUNICATION_PLAYBOOK.md](docs/COMMUNICATION_PLAYBOOK.md)
@@ -65,3 +67,5 @@
 - [references/COUNTEREVIDENCE_AND_LIMITS.md](references/COUNTEREVIDENCE_AND_LIMITS.md)
 - [references/COUNTEREVIDENCE_02.md](references/COUNTEREVIDENCE_02.md)
 - [references/CLAIM_SOURCE_TRACEABILITY_01.csv](references/CLAIM_SOURCE_TRACEABILITY_01.csv)
+
+</details>
