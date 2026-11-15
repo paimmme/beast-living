@@ -133,3 +133,11 @@
 
 ### 质量边界
 研究 Agent 不改 entries/README/MANIFESTO/chapters/COMMUNICATION_PLAYBOOK/ENTRY_TEMPLATE；主笔 Agent 不得擅自改变 A/H/M 评级、研究设计、样本、效应和因果边界。
+
+
+## 9. 主笔执行任务单
+
+已建立 GitHub Issue #2，逐项列明 Review v1.0 的 P0、P1、P2 工作：
+https://github.com/paimmme/beast-living/issues/2
+
+研究侧详细核验见 [RESEARCH_REVIEW_HANDOFF_02.md](RESEARCH_REVIEW_HANDOFF_02.md)。当前研究分支 HEAD 为 `afbe743`；PR #1 保持 Draft / Open，不合并，等待主笔二轮定稿和独立审阅。
