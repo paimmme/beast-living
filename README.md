@@ -3,7 +3,7 @@
 > **A field guide to being a living animal in a human world.**  
 > 写给现代青年的自然主义生活指南：重新学习如何使用身体、维护栖息地、建立关系、休息、玩耍、探索，并保有自己的选择。
 
-**项目状态：** Research Foundation v0.1.3 · 私有仓库审核草案 · 非医疗/心理治疗指南  
+**项目状态：** Research Foundation v0.1.4 · 私有仓库审核草案 · 非医疗/心理治疗指南  
 **内容语言：** 简体中文为主，关键概念附英文  
 **目标读者：** 暂定 18–35 岁的青年与初入成年生活者；年龄不是准入门槛。
 
@@ -71,6 +71,7 @@ BEAST-LIVING/
 │   ├── COUNTEREVIDENCE_AND_LIMITS.md
 │   ├── PROJECT_BRIEF.md
 │   ├── RESEARCH_AUDIT_01.md
+│   ├── RESEARCH_AUDIT_02.md
 │   ├── CREATOR_AND_MODEL_RESEARCH_01.md
 │   ├── CONTENT_TRANSLATION_MODEL_01.md
 │   ├── CONTENT_ARCHITECTURE.md
@@ -105,6 +106,8 @@ BEAST-LIVING/
 - 完成三轮研究扩展，覆盖住房/光照/内感受/社会基础设施、进化失配/压力恢复/社会缓冲/数字注意力。
 - 新增压力与社会支持方向样稿，并增加 2026 年工业环境交叉实验的研究样稿。
 - 完成首轮 22 项核心来源证据审计，新增反向证据与限制清单。
+- 完成第二轮跨学科研究，覆盖青年住房、城市活动、社会联结、休闲内疚、工时错配与结构性困难。
+- 新增 5 篇生活建议草稿，均保留证据边界与地区适用限制。
 - 新增中外知识创作者研究、学术行为模型和项目专属内容转译模型。
 - 建立来源核验登记表，明确全文关键段落、摘要核对和官方指南之间的差异。
 
@@ -118,6 +121,9 @@ BEAST-LIVING/
 - [研究与编辑规范](docs/RESEARCH_PROTOCOL.md)
 - [第三轮研究扩展](docs/RESEARCH_EXPANSION_03.md)
 - [首轮核心证据审计](docs/RESEARCH_AUDIT_01.md)
+- [第二轮青年生活结构审计](docs/RESEARCH_AUDIT_02.md)
+- [第二轮来源核验登记](references/RESEARCH_AUDIT_02_REGISTER.md)
+- [第二轮反向证据清单](references/COUNTEREVIDENCE_02.md)
 - [反向证据与限制](references/COUNTEREVIDENCE_AND_LIMITS.md)
 - [创作者与理论模型研究](docs/CREATOR_AND_MODEL_RESEARCH_01.md)
 - [内容转译模型](docs/CONTENT_TRANSLATION_MODEL_01.md)
