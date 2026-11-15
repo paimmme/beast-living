@@ -209,3 +209,65 @@ Koh, G. K., Ow Yong, J. Q. Y., Lee, A. R. Y. B., Ong, B. S. Y., Yau, C. E., Ho, 
 
 **边界：** 纳入研究的搜索时间截至 2021 年 12 月；范围综述不是因果效应 Meta-analysis；研究类型和测量方法异质。
 
+
+
+## G. 新增：行为改变、生活质量与内容传播模型
+
+### T22 — COM-B 与 Behaviour Change Wheel
+
+Michie, S., van Stralen, M. M., & West, R. (2011). “The behaviour change wheel: A new method for characterising and designing behaviour change interventions.” *Implementation Science*, 6, 42. DOI: https://doi.org/10.1186/1748-5908-6-42
+
+- Open Access: https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/
+
+**关键贡献：** COM-B 将行为系统的核心条件概括为 Capability、Opportunity、Motivation；Behaviour Change Wheel 外层包括九类干预功能和七类政策类别。
+
+**适用：** 诊断青年为什么难以开始或维持某个生活行为，避免把行为困难一概归咎于个人意志力。
+
+**边界：** 这是行为改变设计框架，不保证任何单一干预在具体人群中有效。
+
+### T23 — 生态视角与健康促进
+
+National Cancer Institute. *Theory at a Glance: Application to Health Promotion and Health Behavior (Second Edition).* https://cancercontrol.cancer.gov/sites/default/files/2020-06/theory.pdf
+
+**关键贡献：** 归纳个体、人际、机构/组织、社区和公共政策五个影响层级；强调行为既影响环境，也受到环境影响。
+
+**适用：** 将住房、工时、收入、公共空间、交通和社会支持纳入生活建议的可行性分析。
+
+**边界：** 是公共卫生理论指南，不是针对某个青年群体的单项干预效果研究。
+
+### T24 — 自我决定理论基本心理需要 Meta-analysis
+
+Slemp, G. R., Field, J. G., Ryan, R. M., Forner, V. W., Van den Broeck, A., & Lewis, K. J. (2024). “Interpersonal supports for basic psychological needs and their relations with motivation, well-being, and performance: a meta-analysis.” *Personality and Social Psychology Bulletin*, 127(5), 1012–1037. DOI: https://doi.org/10.1037/pspi0000459
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/38635183/
+
+**设计：** 881 个独立样本、443,556 名参与者、4,561 个效应量。
+
+**关键结果：** 对自主、胜任和关系需要的支持，与需要满足、主观幸福感及表现存在积极关联。
+
+**边界：** Meta-analysis 中的关系不能自动解释为所有场景下的因果效果；文化和具体支持形式仍需考虑。
+
+### T25 — 习惯形成时间系统综述与 Meta-analysis
+
+Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). “Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants.” *Healthcare*, 12(23), 2488. DOI: https://doi.org/10.3390/healthcare12232488
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/39685110/
+- Open Access: https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/
+
+**设计：** 20 项研究、2,601 名参与者；11 项研究被评为高偏倚风险。只有 4 项研究直接报告习惯形成时间。
+
+**结果：** 报告的中位数为 59–66 天，均值为 106–154 天，个体范围为 4–335 天。
+
+**边界：** 行为种类和研究方法异质；不支持“21 天必然养成习惯”的承诺。
+
+### T26 — 科学视频叙事与播放量
+
+“A Good Story Well Told: Storytelling Components That Impact Science Video Popularity on YouTube.” *Frontiers in Communication* (2020). DOI: https://doi.org/10.3389/fcomm.2020.581349
+
+- Open Access: https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2020.581349/full
+
+**设计：** 分析 52 个高影响力 YouTube 科学频道在 2019 年发布的 306 条视频，对比高播放量和低播放量样本。
+
+**结果：** 故事地位和情绪唤起在回归模型中是显著预测因素；戏剧性问题、转折和洞见也与播放量存在关联。
+
+**边界：** 单一平台、极端样本、观察性相关；播放量不是学习效果、事实准确性或公共价值的替代指标。
