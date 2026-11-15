@@ -58,6 +58,11 @@
 ## 研究与编辑后台
 
 - [概念模型](docs/CONCEPTUAL_MODEL.md)
+- [Milestone 03 研究交付总览](docs/RESEARCH_MILESTONE_03.md)
+- [02C 原创理论与心智模型审计](docs/THEORY_AUDIT_01.md)
+- [六机制模型注册表](docs/MODEL_REGISTRY_01.md)
+- [中国/新加坡/香港青年生活数据底册](docs/YOUTH_DATA_ATLAS_01.md)
+- [15 篇文章证据底卡](docs/EVIDENCE_CARDS_001_015.md)
 - [研究审计 01](docs/RESEARCH_AUDIT_01.md) · [研究审计 02](docs/RESEARCH_AUDIT_02.md)
 - [反向证据与限制](references/COUNTEREVIDENCE_AND_LIMITS.md) · [第二轮反向证据](references/COUNTEREVIDENCE_02.md)
 - [创作者与理论模型研究](docs/CREATOR_AND_MODEL_RESEARCH_01.md)
