@@ -15,7 +15,6 @@
     "pull_request_state": "open",
     "draft": true,
     "merged": false,
-    "branch_head": "62f8b504d63607229b80c0c39100043995052ee5",
     "changed_files": 51
   },
   "notes": [
@@ -23,6 +22,7 @@
     "New sources distinguish creator self-description, media interviews, peer-reviewed content analyses, academic theory, official guidance, and platform rankings.",
     "Popularity and follower counts are not treated as scientific validity.",
     "The new content model is an editorial workflow, not a validated scientific theory.",
-    "README directory tree updated to include the three creator research files."
+    "README directory tree updated to include the three creator research files.",
+    "The final branch head is verified from GitHub at delivery time; the validation report intentionally omits a self-referential branch SHA."
   ]
 }
