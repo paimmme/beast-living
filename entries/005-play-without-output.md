@@ -21,8 +21,9 @@
 
 玩够了就收手，不用给今天写总结。
 
-<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H0 / M2 审计卡） **动物观察（A1）**：Burghardt, G. M., Pellis, S. M., Schank, J. C., Smaldino, P. E., Vanderschuren, L. J. M. J., & Palagi, E. (2024). "Animal play and evolution: Seven timely research issues about enigmatic phenomena." *Neuroscience & Biobehavioral Reviews*, 160, 105617 (PMID: 38458553). 梳理跨物种玩耍现象的演化多样性及尚未解决的七大研究问题。</summary>
+<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H0 / M2 审计卡）</summary>
 
+- **动物观察（A1）**：Burghardt, G. M., Pellis, S. M., Schank, J. C., Smaldino, P. E., Vanderschuren, L. J. M. J., & Palagi, E. (2024). "Animal play and evolution: Seven timely research issues about enigmatic phenomena." *Neuroscience & Biobehavioral Reviews*, 160, 105617 (PMID: 38458553). 梳理跨物种玩耍现象的演化多样性及尚未解决的七大研究问题。
 - **人类证据（H0）**：本条尚未引入成人非功利性爱好干预改善认知或心理健康的直接因果临床证据，因此转译层级标为启发性类比（M2）。
 - **不要误解为**：绝不意味着“玩物丧志”或否定生计现实，也不是用“玩一玩”去掩盖过长工时与低收入压力；若你当下连基本休息时间都不够，请先补觉，不必硬挤时间去“玩”。
 - **来源**：
