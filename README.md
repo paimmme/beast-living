@@ -59,6 +59,12 @@
 
 - [概念模型](docs/CONCEPTUAL_MODEL.md)
 - [Milestone 03 研究交付总览](docs/RESEARCH_MILESTONE_03.md)
+- [Milestone 04 阶段进度](docs/RESEARCH_MILESTONE_04.md)
+- [能量/内感受/公共空间原始证据审计](docs/FULLTEXT_AUDIT_02.md)
+- [青年生活机会预算框架](docs/LIFE_OPPORTUNITY_MODEL_01.md)
+- [主张—来源—文章追溯表](references/CLAIM_SOURCE_TRACEABILITY_01.csv)
+- [Milestone 04 新增研究来源](references/RESEARCH_DOSSIER_05.md)
+- [Milestone 04 新增主张核验](references/CLAIM_REGISTER_05.md)
 - [02C 原创理论与心智模型审计](docs/THEORY_AUDIT_01.md)
 - [六机制模型注册表](docs/MODEL_REGISTRY_01.md)
 - [中国/新加坡/香港青年生活数据底册](docs/YOUTH_DATA_ATLAS_01.md)
