@@ -67,6 +67,7 @@
 - [社会基础设施模型](docs/SOCIAL_INFRASTRUCTURE_MODEL_01.md)
 - [社会基础设施研究来源底册](references/RESEARCH_DOSSIER_06.md)
 - [新增主张核验 06](references/CLAIM_REGISTER_06.md)
+- [Burghardt 2024 动物玩耍综述书目核验](references/RESEARCH_DOSSIER_07.md)
 - [主笔证据卡补充 01](docs/EVIDENCE_CARDS_ADDENDUM_01.md)
 - [Milestone 04 新增研究来源](references/RESEARCH_DOSSIER_05.md)
 - [Milestone 04 新增主张核验](references/CLAIM_REGISTER_05.md)
