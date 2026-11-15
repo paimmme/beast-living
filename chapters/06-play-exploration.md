@@ -6,9 +6,9 @@
 
 ## 已上线条目
 
-- [E01｜保留一点不产出结果的玩耍](http://../entries/005-play-without-output.md) — 留一小块不打卡、不发动态、不算分的瞎玩时间。
-- [E02｜去有树、有风、有水的地方走二十分钟](http://../entries/006-take-a-nature-walk.md) — 把午休或下班后的二十分钟交给树影和自然光。
-- [E03｜同样是运动，换个环境，身体感受可能不同](http://../entries/010-industrial-environments-and-endurance.md) — 绕开高架和尾气，挑一条不吵的路走。
+- [E01｜保留一点不产出结果的玩耍](../entries/005-play-without-output.md) — 留一小块不打卡、不发动态、不算分的瞎玩时间。
+- [E02｜去有树、有风、有水的地方走二十分钟](../entries/006-take-a-nature-walk.md) — 把午休或下班后的二十分钟交给树影和自然光。
+- [E03｜同样是运动，换个环境，身体感受可能不同](../entries/010-industrial-environments-and-endurance.md) — 绕开高架和尾气，挑一条不吵的路走。
 
 ## 后续选题（规划中）
 
