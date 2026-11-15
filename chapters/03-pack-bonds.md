@@ -1,41 +1,16 @@
 # 03｜族群与联结 Pack & Bonds
 
-**本章问题：** 我是否有真实、互惠、能共同经历生活的人？
+**核心问题：真遇到扛不住的事时，我身边有没有一两个安全、不用端着的人可以靠一下？**
 
-## 章节地图
+灵长类动物从来不是按“单机硬扛一切”来设计的。这一章不劝内向的人强行去挤热闹，也不把通讯录人数当成支持力度；我们只帮你分辨：哪些关系能让你放下防备喘口气，哪些热闹只会让你更累，以及怎么在城市的高流动性里留下几个低成本的熟人节点。
 
-- P01 维护几段真实的关系（首轮样稿）
-- P02 偶尔主动发起一次见面
-- P03 把低成本的线下聚会固定下来
-- P04 允许自己向朋友求助
-- P05 帮助别人，但不把关系记成账本
-- P06 冲突之后，练习修复而不是消失
-- P07 建立一个小型互助网络
-- P08 独处与孤独不是一回事
-- P09 压力很大时，找一个安全可信的人一起面对（首轮样稿）
-- P10 冲突之后可以修复，但不是所有关系都值得和解
+## 已上线条目
 
-## 研究入口
+- [P01｜别只靠一个人扛：留住你的小族群](http://../entries/003-keep-your-pack.md) — 守住两三个能说实话、互相搭把手的人。
+- [P09｜扛不住的时候，借一个安全的人待一会儿](http://../entries/008-a-safe-person-can-buffer-stress.md) — 发一条“免建议声明”的邀约，借一点体温喘口气。
+- [S03｜联系人不等于社会支持](http://../entries/013-contacts-are-not-social-support.md) — 区分通讯录人数、真实支持与可重复见面的现实落点。
 
-- Silk (2025), “The natural history of social bonds”: https://doi.org/10.1111/nyas.15318
-- Holt-Lunstad et al. (2010), social relationships meta-analysis: https://doi.org/10.1371/journal.pmed.1000316
-- WHO (2025), social connection report: https://www.who.int/publications/i/item/9789240112360
-- Hostinar et al. (2014), social buffering across animal and human studies: https://doi.org/10.1037/a0032671
-- Hennessy et al. (2009), social buffering mechanisms and limits: https://doi.org/10.1016/j.yfrne.2009.06.001
-- Wittig et al. (2016), social support and glucocorticoids in wild chimpanzees: https://doi.org/10.1038/ncomms13361
-- Silk (2002), reconciliation in primates: https://doi.org/10.1146/annurev.anthro.31.032902.101743
-- Clutton-Brock (2009), cooperation between non-kin: https://doi.org/10.1038/nature08366
+## 后续选题（规划中）
 
-- Hostinar et al. (2014) 强调社会缓冲受支持类型、早期经验、性别和关系质量影响；不是任何社交都能减压。
-- Clutton-Brock (2009) 与 Cheney (2011) 提醒，动物合作不应简单解释为直接互惠。
-
-## 本章边界
-
-关系的质量、互惠和安全比关系数量重要。独处不是病，群体不是天然善良；不鼓励为了“合群”留在伤害性关系中。
-
-
-- P11 联系人不等于社会支持（研究型草稿）
-- 新增 WHO 社会联结三维框架：结构、功能、质量；区分社会隔离与主观孤独。
-- 新增数字联结干预 Meta-analysis：群体/社会成分可能比单纯减少社交媒体更有支持。
-- WHO (2025): https://www.who.int/news-room/questions-and-answers/item/social-connection
-- Hansen et al. (2025): https://doi.org/10.1016/j.invent.2025.100856
+- P02 识别消耗型关系与安全边界（规划中）
+- P03 在没有亲密朋友圈时如何调用公共与社区支持（规划中）
