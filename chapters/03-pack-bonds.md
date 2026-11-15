@@ -6,9 +6,9 @@
 
 ## 已上线条目
 
-- [P01｜别只靠一个人扛：留住你的小族群](http://../entries/003-keep-your-pack.md) — 守住两三个能说实话、互相搭把手的人。
-- [P09｜扛不住的时候，借一个安全的人待一会儿](http://../entries/008-a-safe-person-can-buffer-stress.md) — 发一条“免建议声明”的邀约，借一点体温喘口气。
-- [S03｜联系人不等于社会支持](http://../entries/013-contacts-are-not-social-support.md) — 区分通讯录人数、真实支持与可重复见面的现实落点。
+- [P01｜别只靠一个人扛：留住你的小族群](../entries/003-keep-your-pack.md) — 守住两三个能说实话、互相搭把手的人。
+- [P09｜扛不住的时候，借一个安全的人待一会儿](../entries/008-a-safe-person-can-buffer-stress.md) — 发一条“免建议声明”的邀约，借一点体温喘口气。
+- [S03｜联系人不等于社会支持](../entries/013-contacts-are-not-social-support.md) — 区分通讯录人数、真实支持与可重复见面的现实落点。
 
 ## 后续选题（规划中）
 
