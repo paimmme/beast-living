@@ -21,8 +21,9 @@
 
 把锅里的水烧热，顺便问一句那个人晚上吃什么。
 
-<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H1 / M2 审计卡） **动物观察（A1）**：Silk, J. B. (2025). *The natural history of social bonds*. *Annals of the New York Academy of Sciences*, 1546(1), 90–99. 梳理非人灵长类社会纽带的演化、理毛与适应性关联；仅作演化背景参考，不直接等同于人类社交处方。</summary>
+<details><summary>🔬 展开证据等级、反向证据与适用边界（A1 / H1 / M2 审计卡）</summary>
 
+- **动物观察（A1）**：Silk, J. B. (2025). *The natural history of social bonds*. *Annals of the New York Academy of Sciences*, 1546(1), 90–99. 梳理非人灵长类社会纽带的演化、理毛与适应性关联；仅作演化背景参考，不直接等同于人类社交处方。
 - **人类证据（H1）**：Holt-Lunstad et al. (2010) 纳入 148 项研究、308,849 名参与者的 Meta-analysis 显示，较强的社会关系与更高的生存概率相关；WHO (2025) 社会联结框架将其拆分为结构、功能与质量三个维度。
 - **补充线索**：Chan et al. (2026) 的潜剖面分析提示，支持来源存在多种组合（家庭、朋友、伴侣、邻里与机构支持），不同支持网络下的心理结果并不相同。
 - **不要误解为**：不是强迫内向者天天社交；低质量、控制性或消耗性的关系反而增加压力；城市流动与长工时导致朋友分散，绝非个人失败。
