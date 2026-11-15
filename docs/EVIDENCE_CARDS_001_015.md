@@ -107,7 +107,10 @@
 **主问题：** 是否保留不以变现、绩效或公开展示为目的的活动？
 
 **可用证据**
-- Burghardt et al. (2024) animal play review（当前原始资料未给出完整书目，需核验后再引用）。
+- Burghardt, G. M., Pellis, S. M., Schank, J. C., Smaldino, P. E., Vanderschuren, L. J. M. J., & Palagi, E. (2024). “Animal play and evolution: Seven timely research issues about enigmatic phenomena.” *Neuroscience & Biobehavioral Reviews*, 160, 105617. https://doi.org/10.1016/j.neubiorev.2024.105617
+  - PMID: 38458553.
+  - 综述讨论动物玩耍的分类、分布、机制、发展、起源、进化和适应功能，并提出七个仍需推进的研究议题。
+  - 证据边界：这是一篇概念性/叙述性综述，强调领域仍存在未解决问题；不能据此断言所有动物玩耍都有明确适应功能，也不能证明人类无产出爱好必然提升智力、治疗压力或改善心理健康。
 - Ryan & Deci (2000), self-determination theory overview. DOI: https://doi.org/10.1037/0003-066X.55.1.68
 - Slemp et al. (2024), basic psychological needs meta-analysis. DOI: https://doi.org/10.1037/pspi0000459
 
@@ -122,7 +125,7 @@
 - 将玩耍变成新的打卡 KPI。
 
 **待补**
-- 成人休闲、内在动机、玩耍和幸福感的干预研究；补全动物综述书目信息。
+- 成人休闲、内在动机、玩耍和幸福感的干预研究；动物综述书目已核验，但仍需避免从动物玩耍直接推导成人休闲干预效果。
 
 ## 006｜自然散步与环境恢复
 
