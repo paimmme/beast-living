@@ -110,3 +110,26 @@
 这只解除“书目信息未核实”的 HOLD，不代表动物玩耍证据可以证明成人无产出爱好的心理健康收益。正文二轮改写仍由主笔 Agent 执行；研究 Agent 不直接修改 entries/005。
 
 主笔 Review 另外列出的 P0/P1/P2 文风工作（正文作者年份/样本量下沉、010/012/013 开篇、009–014 收尾、008–015 DOI 链接、chapters 导读）已转交主笔执行，不在研究 Agent 写入范围内。
+
+
+## 8. Review v1.0 执行响应（2026-11-15）
+
+重新读取 Google Drive 主笔总纲 v1.0 最新 Revision 后，研究 Agent 暂停新增宏观理论模型，进入 001–015 二轮定稿支持阶段。
+
+### 研究端已完成
+- README 检查通过：15 篇痛点入口完整、八个领域入口完整、反向证据路径正确、无 Private 标记；无需重复重写。
+- MANIFESTO.md 存在，项目立场与原则一致。
+- 对 001–015 正文和 chapters/01–08 进行逐文件检查，形成主笔执行清单。
+- 005/BURGHARDT2024 书目已在后台核实并解除 HOLD；entry 005 前台仍需主笔补 DOI。
+- 完善 Claim–Source–Entry 台账中 003、008–015 的相关来源记录。
+- Evidence Card 003 补充 Silk (2025) 完整书目与 DOI。
+
+### 主笔待执行
+- P0：9 篇正文去作者年份/样本量/统计术语。
+- P0：005 来源抽屉补全；008–015 DOI/官方链接统一检查。
+- P1：010/012/013 生活场景开篇；009–014 行动区和结尾节奏。
+- P2：15 篇定稿后重写 chapters/01–08 为读者导读。
+- 详细执行单：[RESEARCH_REVIEW_HANDOFF_02.md](RESEARCH_REVIEW_HANDOFF_02.md)。
+
+### 质量边界
+研究 Agent 不改 entries/README/MANIFESTO/chapters/COMMUNICATION_PLAYBOOK/ENTRY_TEMPLATE；主笔 Agent 不得擅自改变 A/H/M 评级、研究设计、样本、效应和因果边界。
