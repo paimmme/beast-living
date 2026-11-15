@@ -32,3 +32,10 @@
 ## 本章边界
 
 关系的质量、互惠和安全比关系数量重要。独处不是病，群体不是天然善良；不鼓励为了“合群”留在伤害性关系中。
+
+
+- P11 联系人不等于社会支持（研究型草稿）
+- 新增 WHO 社会联结三维框架：结构、功能、质量；区分社会隔离与主观孤独。
+- 新增数字联结干预 Meta-analysis：群体/社会成分可能比单纯减少社交媒体更有支持。
+- WHO (2025): https://www.who.int/news-room/questions-and-answers/item/social-connection
+- Hansen et al. (2025): https://doi.org/10.1016/j.invent.2025.100856
