@@ -1,36 +1,15 @@
 # 08｜自主与自由 Agency & Freedom
 
-**本章问题：** 我是否在过自己认可的生活，而不是只追逐外部评分？
+**核心问题：当大环境里的工时、房价和规则短期改不动时，我怎么既不替系统背锅，也不把手里的主动权扔掉？**
 
-## 章节地图
+这是全书的收束，也是底盘。自主感不是“我想辞职就辞职”的鸡汤口号，而是在看清结构性约束之后，依然能冷静切开“哪些账退还给制度、哪些小事今天由我拍板”。
 
-- F01 先定义对自己来说什么叫“够了”（首轮样稿）
-- F02 不要把别人的时间表当成人生时钟
-- F03 保护一段不被平台占用的注意力
-- F04 不必把每个兴趣都变成职业
-- F05 在现实约束中保留选择权
-- F06 低固定成本能换来一些自由
-- F07 练习做自己的决定
-- F08 允许自己改变方向
-- F09 别把所有空隙都交给推荐算法
-- F10 别拿一个想象中的祖先生活标准衡量自己
+## 已上线条目
 
-## 研究入口
+- [F01｜在逼仄的日程里，给自己留一块能拍板的自留地](http://../entries/007-choose-autonomy.md) — 哪怕大局难改，每天也护住一件由你自己决定的小事。
+- [A03｜结构性困难不是你的个人失败](http://../entries/015-structural-constraints-are-not-personal-failure.md) — 用三栏剥离法把结构硬约束、可协商项和今晚能做的一小步拆开。
 
-- Ryan & Deci (2000), self-determination theory: https://doi.org/10.1037/0003-066X.55.1.68
-- Odell, *How to Do Nothing*: https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612198552/
-- Burkeman, *Four Thousand Weeks*: https://www.oliverburkeman.com/books/4000-weeks
-- Griffiths & Bourrat (2023), evolutionary/developmental/physiological mismatch: https://doi.org/10.1093/emph/eoad023
-- Longman & Shaw (2025/2026), environmental mismatch hypothesis: https://doi.org/10.1111/brv.70094
-- Green et al. (2025), social media, AI and digital well-being: https://doi.org/10.1111/spc3.70107
-- Calvert et al. (2025), short-term social media reduction cohort: https://doi.org/10.1001/jamanetworkopen.2025.45245
+## 后续选题（规划中）
 
-## 本章边界
-
-自主不是完全不受约束，也不是每个人都必须辞职、远离社会或追求某种生活方式。重点是在现实条件中争取更多认同感、选择权和行动空间。
-
-
-- A03 结构性困难不是个人失败（研究型草稿）
-- 新增研究：青年功绩主义信念、社会信任和抑郁的纵向关系；结果存在层级和模型差异，不支持单向因果叙事。
-- Fan et al. (2026): https://doi.org/10.1177/09567976261479675
-- Li & Chen (2026): https://doi.org/10.1002/brb3.71604
+- F02 在有限预算内维持选择感（规划中）
+- A04 当个人调整到达上限时，学会求助与调用制度资源（规划中）
