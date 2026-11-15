@@ -108,3 +108,85 @@ Grigsby et al., *Narrative transportation: A systematic literature review and fu
 - 不把复杂研究压缩成“科学证明”四个字。
 - 视觉有趣，但数据、图例、来源和限制必须可读。
 - 保留读者拒绝建议的自由。
+
+
+## E. 创作者研究与内容模型（2026-11 新增）
+
+### 13. Huberman Lab — 研究转译结构
+
+同行评审内容分析：Tsulukidze et al. (2023), DOI: https://doi.org/10.2196/46611。
+
+研究者把 Huberman Lab 的内容组织归纳为 Why / What / How：教育与赋能；工具、机制与科学依据；主题化、迭代式学习、观众互动和可及性。
+
+**本项目转译：** 一个主题建立连续知识模块；每条内容不仅讲行动，也解释机制与证据。该研究不是对 Huberman 每项健康建议的准确性审计。
+
+### 14. Kurzgesagt — 研究文档、内部同行审查与来源表
+
+团队自述：[Research and Fact-checking](https://medium.com/@Kurzgesagt/how-research-and-factchecking-work-at-kurzgesagt-f5b239188255)。
+
+**本项目转译：** 研究文档先于脚本；事实核查员逐句拆解；来源表按内容出现顺序回链；专家反馈和事实核查不能留到成片后才做。
+
+### 15. Veritasium — 预测与认知冲突
+
+参考：[Scientific American 对 Derek Muller 的采访](https://www.scientificamerican.com/article/how-youtube-star-derek-muller-of-veritasium-is-challenging-scientific/)。
+
+**本项目转译：** 先让读者作出预测，再展示观察和解释；用真实的认知冲突推动理解，不靠故意误导制造反转。
+
+### 16. 星球研究所 — 长期目录式创作
+
+参考：[星球研究所的创作方法论](https://www.thepaper.cn/newsDetail_forward_22683393)。
+
+**本项目转译：** 八大主题形成长期目录；宏大议题逐级拆成单篇可回答的问题；内容同时追求专业、审美、视野和情感。
+
+### 17. 混知 — 三查与知识锚点
+
+参考：[中国科协之声对话混知](https://m.thepaper.cn/newsDetail_forward_31966139)。
+
+**本项目转译：** 论文源头、权威解读、交叉验证；用熟悉的经验解释抽象机制；热点内容与长期基础知识并行。
+
+### 18. 无穷小亮 — 展示观察推理
+
+参考：[中国农业大学对张辰亮的报道](https://news.cau.edu.cn/rwgs/b8197a1d09594390b4de714a6e471355.htm)。
+
+**本项目转译：** 动物内容要展示观察线索和推理过程，不只展示奇观或结论。
+
+### 19. 其他青年生活与心理内容参考
+
+- HealthyGamerGG: https://www.healthygamer.gg/about/guide
+- KnowYourself: https://www.knowyourself.cc/
+- The School of Life: https://www.theschooloflife.com/about-us/
+- Ali Abdaal / Feel-Good Productivity: https://aliabdaal.com/feel-good-productivity/
+
+这些品牌的观点和课程结构可以作为受众问题、叙事和产品设计参考；不等于经过临床验证的理论模型。
+
+## F. 学术模型与项目转译
+
+### 20. COM-B / Behaviour Change Wheel
+
+Michie et al. (2011), DOI: https://doi.org/10.1186/1748-5908-6-42。
+
+**本项目转译：** 对行动困难，分别检查能力、机会和动机，而不是默认读者缺乏自律。
+
+### 21. 生态视角
+
+National Cancer Institute, *Theory at a Glance*: https://cancercontrol.cancer.gov/sites/default/files/2020-06/theory.pdf
+
+**本项目转译：** 从个人、关系、机构、社区和政策层面分析生活条件。
+
+### 22. 自我决定理论 Meta-analysis
+
+Slemp et al. (2024), DOI: https://doi.org/10.1037/pspi0000459。
+
+**本项目转译：** 保留自主、胜任和关系感；不把建议变成强制任务。
+
+### 23. 习惯形成时间综述
+
+Singh et al. (2024), DOI: https://doi.org/10.3390/healthcare12232488。
+
+**本项目转译：** 不再使用“21 天养成习惯”作为项目承诺；习惯形成有显著个体差异。
+
+### 24. 科学视频叙事研究
+
+*A Good Story Well Told*, DOI: https://doi.org/10.3389/fcomm.2020.581349。
+
+**本项目转译：** 用问题、转折和洞见帮助理解；播放量只是传播指标，不是内容质量的充分指标。
