@@ -23,3 +23,12 @@
 ## 本章边界
 
 领地不是房产所有权，也不是对他人的支配。人类居住空间受到租赁合同、收入、家庭结构、残障与城市住房条件影响。建议应低成本、可维护，不制造新的消费压力。
+
+
+- H03 你的房间不是住房政策（研究型草稿）
+- 住房不安全、可负担性、租约稳定和居住质量需与日常整理建议分开讨论。
+
+新增研究入口：
+- Talmatzky et al. (2026), renters' housing insecurity and mental health: https://doi.org/10.1371/journal.pone.0294222
+- Roberts et al. (2025), housing insecurity in young adulthood: https://doi.org/10.1016/j.socscimed.2025.117761
+- Nie et al. (2025), housing unaffordability and adolescent academic achievement in urban China: https://doi.org/10.1080/00036846.2024.2391580
