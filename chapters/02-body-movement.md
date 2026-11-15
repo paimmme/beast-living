@@ -6,8 +6,8 @@
 
 ## 已上线条目
 
-- [B01｜用身体，而不是只用手指和眼睛](http://../entries/002-use-your-body.md) — 哪怕只下楼慢走五分钟，也比在椅子上等状态满格强。
-- [P06｜把运动还给日常生活](http://../entries/012-let-movement-live-in-the-city.md) — 让买菜、拿快递和提前一站下车接管一部分日常活动量。
+- [B01｜用身体，而不是只用手指和眼睛](../entries/002-use-your-body.md) — 哪怕只下楼慢走五分钟，也比在椅子上等状态满格强。
+- [P06｜把运动还给日常生活](../entries/012-let-movement-live-in-the-city.md) — 让买菜、拿快递和提前一站下车接管一部分日常活动量。
 
 ## 后续选题（规划中）
 
