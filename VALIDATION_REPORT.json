@@ -5,11 +5,12 @@
   "bibtex_count": 1,
   "other_count": 1,
   "missing_local_links": [],
+  "validation_scope": "README relative links checked against GitHub tree; newly added paths verified. This is not a repository-wide Markdown link crawler.",
   "github": {
     "repository": "paimmme/beast-living",
     "visibility": "private",
     "branch": "work/research-foundation-v0",
-    "branch_head": "d0cb7ccaa41cb345d053a52dd58a920366c3a4ae",
+    "branch_head": "90613df4f8d14d4624e438234ce136a767491cf5",
     "pull_request": 1,
     "pull_request_url": "https://github.com/paimmme/beast-living/pull/1",
     "pull_request_state": "open",
