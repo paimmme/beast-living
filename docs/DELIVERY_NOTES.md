@@ -62,3 +62,12 @@
 - 工作分支：`work/research-foundation-v0`。
 - Draft PR #1 继续保持未合并，新增审计材料仍等待所有者审核。
 - 本轮后仓库文件总数预计 49 个，其中 Markdown 46 个；提交后以 GitHub 树核验为准。
+
+
+## Research Audit 01 最终 GitHub 核验
+
+- 工作分支最新提交：`d0cb7ccaa41cb345d053a52dd58a920366c3a4ae`。
+- 仓库树：49 个文件，其中 46 个 Markdown、1 个 JSON、1 个 BibTeX 和 1 个其他文件。
+- Draft PR #1：48 个变更文件，仍为 open/draft，未合并。
+- 新增文件：研究审计报告、反向证据与限制、来源核验登记表、工业环境与耐力研究样稿。
+- 本轮来源审计深度不一；B/C 级来源仍需全文复核，不得标为完整审计。
