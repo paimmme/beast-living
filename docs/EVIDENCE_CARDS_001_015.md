@@ -65,7 +65,7 @@
 **可用证据**
 - Holt-Lunstad et al. (2010), social relationships and mortality meta-analysis. DOI: https://doi.org/10.1371/journal.pmed.1000316
 - WHO (2025), Social Connection definitions. https://www.who.int/news-room/questions-and-answers/item/social-connection
-- Silk (2025), mammalian social bonds review（完整书目信息需在来源登记中复核）。
+- Silk, J. B. (2025). “The natural history of social bonds.” *Annals of the New York Academy of Sciences*, 1546(1), 90–99. https://doi.org/10.1111/nyas.15318.
 
 **研究解释**
 - 社会联结应区分结构、功能、质量。
